@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration-line: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+.bio {
+    height: 300px;
+    width: 200px;
+}
+fieldset input {color:blueviolet
+}
+header {
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(226, 94, 53);
+    font-size: 55px;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(173, 162, 235);
+    border-top: solid 5px rgb(255, 0, 0);
+    border-right: solid 10px rgb(180, 41, 41);
+    border-bottom: solid 7px rgb(212, 26, 26);
+    border-left: solid 12px rgb(180, 41, 41);
+}
